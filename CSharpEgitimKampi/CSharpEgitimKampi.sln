@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Egitim", "01-Egitim\01-Egitim.csproj", "{A043D243-F35F-4BED-8B3F-1726AAEF1509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Egitim", "02-Egitim\02-Egitim.csproj", "{C45AE6DF-D81F-4A8F-985C-9D5EDFE2AFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A043D243-F35F-4BED-8B3F-1726AAEF1509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A043D243-F35F-4BED-8B3F-1726AAEF1509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A043D243-F35F-4BED-8B3F-1726AAEF1509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A043D243-F35F-4BED-8B3F-1726AAEF1509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45AE6DF-D81F-4A8F-985C-9D5EDFE2AFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45AE6DF-D81F-4A8F-985C-9D5EDFE2AFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45AE6DF-D81F-4A8F-985C-9D5EDFE2AFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45AE6DF-D81F-4A8F-985C-9D5EDFE2AFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42389B6-3FF6-4596-B020-951CF2D83890}
+	EndGlobalSection
+EndGlobal
