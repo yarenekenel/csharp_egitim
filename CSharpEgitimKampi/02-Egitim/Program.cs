@@ -175,6 +175,8 @@ namespace _02_Egitim
 
 
             Console.Read();
+
+            //Ders 2 Sonu
         }
     }
 }
