@@ -1,0 +1,7 @@
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\bin\Debug\08_Egitim.exe.config
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\bin\Debug\08_Egitim.exe
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\bin\Debug\08_Egitim.pdb
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\obj\Debug\08_Egitim.csproj.AssemblyReference.cache
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\obj\Debug\08_Egitim.csproj.CoreCompileInputs.cache
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\obj\Debug\08_Egitim.exe
+C:\Users\yarenekenel10\source\repos\08_Egitim\08_Egitim\obj\Debug\08_Egitim.pdb
