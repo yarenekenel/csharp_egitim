@@ -1,0 +1,9 @@
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\bin\Debug\C#EgitimKampı301.Presentation.Layer.exe.config
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\bin\Debug\C#EgitimKampı301.Presentation.Layer.exe
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\bin\Debug\C#EgitimKampı301.Presentation.Layer.pdb
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\obj\Debug\C#EgitimKampı301.Presentation.Layer.csproj.AssemblyReference.cache
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\obj\Debug\C_EgitimKampı301.Presentation.Layer.Properties.Resources.resources
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\obj\Debug\C#EgitimKampı301.Presentation.Layer.csproj.GenerateResource.cache
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\obj\Debug\C#EgitimKampı301.Presentation.Layer.csproj.CoreCompileInputs.cache
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\obj\Debug\C#EgitimKampı301.Presentation.Layer.exe
+C:\Users\yarenekenel10\source\repos\C#EgitimKampı301\C#EgitimKampı301.Presentation.Layer\obj\Debug\C#EgitimKampı301.Presentation.Layer.pdb
